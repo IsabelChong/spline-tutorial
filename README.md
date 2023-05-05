@@ -1,4 +1,4 @@
-# Following a Spline Tutorial
+# Following a Spline Tutorial - A Responsive 3D Web Interface using Spline and React
 
 <div style="text-align: center">
 <img src="doc/spline-tutorial-ui_AdobeExpress.gif" alt="User Interface" align="middle"/>
@@ -13,5 +13,8 @@
 ---
 
 ## ✨ Learning Outcomes
-- Importing UI from Figma
-- 
+- Importing UI from Figma to Spline
+- Adding and editing 3D elements in Spline
+- Animating elements in Spline
+- Adding spline element into JavaScript
+- Using [styled-components](https://styled-components.com/) to style with CSS
