@@ -1,8 +1,12 @@
 # Following a Spline Tutorial - A Responsive 3D Web Interface using Spline and React
 
 <div style="text-align: center">
+<a href="https://github.com/IsabelChong/spline-tutorial/blob/master/doc/spline-tutorial-ui.mp4?raw=true">
 <img src="doc/spline-tutorial-ui_AdobeExpress.gif" alt="User Interface" align="middle"/>
+</a>
 </div>
+
+_pssst you can download the mp4 file by clicking on the gif above for better definition._
 
 ---
 
