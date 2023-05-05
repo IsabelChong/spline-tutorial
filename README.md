@@ -1,7 +1,7 @@
-# Following a Spline Tutorial 
+# Following a Spline Tutorial
 
 <div style="text-align: center">
-<img src="docs/images/spline-tutorial-ui_AdobeExpress.gif" alt="User Interface" align="middle"/>
+<img src="doc/spline-tutorial-ui_AdobeExpress.gif" alt="User Interface" align="middle"/>
 </div>
 
 ---
