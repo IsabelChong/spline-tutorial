@@ -22,3 +22,11 @@ _pssst you can download the mp4 file by clicking on the gif above for better def
 - Animating elements in Spline
 - Adding spline element into JavaScript
 - Using [styled-components](https://styled-components.com/) to style with CSS
+
+---
+
+## 💭 Thoughts About Tutorial
+- There are new updates to CodeSandbox UI, so the `dependency` tab was missing. Easy fix using manual `npm install`.
+- The pixels/sizes of screens were quite different and not optimal, probably due to how the spline files were saved differently and different versions of application. Manual testing have to be done, as also stated in the video, to fix the translations during screen size changes.
+- Good pace, easy to follow for beginners of both spline and coding in general
+- Would recommend for intro to spline!
